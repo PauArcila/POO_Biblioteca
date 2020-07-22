@@ -9,6 +9,6 @@ Funcionalidades:
 2.2. Buscar un artículo: se muestran libros y películas que contengan en su nombre el texto buscado.
 2.0. Salir
 
-Se aplican conceptos de POO y patrón sigleton para la sincronización de reservas.
+Se aplican conceptos de POO y patrón singleton para la sincronización de reservas.
 Una vez realizadas las operaciones de reserva, se actualiza el archivo excel con los nuevos estados de los artículos.
 
